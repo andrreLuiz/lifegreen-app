@@ -23,8 +23,6 @@
 * **Flutter Secure Storage:** Armazenamento local criptografado para *tokens* de sessão.
 * **Back4App / Parse Server:** *Backend as a Service* (BaaS) utilizado para o banco de dados e funções da API.
 
-## 📸 Demonstração
-*(Adicione aqui screenshots ou um GIF da tela inicial e do carrinho de compras funcionando)*
 
 ## 📂 Estrutura do Projeto
 
